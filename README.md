@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oasaintjude
+- 👋 Hi, I’m @oasaintjude, a Software Engineering Student at Babcock University
 - 👀 I’m interested in Mobile/Web App Development
 - 🌱 I’m currently learning Javascript and I'm at the beginners level then would later move on to ReactNative
 - 💞️ I’m looking to collaborate on anything that would help me becoming better.
