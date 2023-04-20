@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oasaintjude, a Software Engineering Student at Babcock University
-- 👀 I’m interested in Mobile/Web App Development
+- 👀 I’m interested in Web/MobileApp Development
 - 💞️ I’m looking foward to collaborating and working on anything that would help me become better.
 - 📫 I reply faster to mails... oasaintjude@gmail.com.
 
